@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="GitHub.github/workflows/snake.yml" alt="snake animation" />
+  <img src="https://github.com/norboyevs/norboyevs/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
