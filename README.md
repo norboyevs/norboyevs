@@ -55,7 +55,8 @@
 
 <p align="center">
   <a href="https://github.com/norboyevs"><img src="https://img.shields.io/badge/Скоро-проекты-yellow?style=for-the-badge&logo=github" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Проект_1-в_разработке-inactive?style=for-the-badge&logo=javascript"/></a>
+  <a href="https://github.com/norboyevs/First-Project"><img src="https://img.shields.io/badge/Проект_1-Готов-yellow?style=for-the-badge&logo=javascript"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Проект_2-В_разработке-inactive?style=for-the-badge&logo=javascript"/></a>
 </p>
 
 ---
