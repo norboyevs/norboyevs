@@ -11,16 +11,21 @@
 
 ---
 
-<h3 align="center">🌍 Я говорю на: , I speak: </h3>
+<h2 align="center">🌍 Языки, на которых я говорю:, I speak: </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Русский;+Английский+;+Узбекский&center=true&width=380&height=45&color=58a6ff&vCenter=true&size=22" alt="Languages I speak" />
+  <img src="https://img.shields.io/badge/Русский / Russian-Выcший%20/ Higher-blue?style=for-the-badge&logo=googletranslate" />
+  <img src="https://img.shields.io/badge/Узбекский / Uzbek-Hодной / Native-success?style=for-the-badge&logo=googletranslate" />
+  <img src="https://img.shields.io/badge/Английский / English-Свободное общение / Free Communication-yellow?style=for-the-badge&logo=googletranslate" />
 </p>
 
-<h3 align="center">📍 Местоположение: , Location:</h3>
+---
+
+<h2 align="center">📍 Где я живу, Location:</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=+Я+живу+в+Узбекистане,+г.Ташкент&center=true&width=400&height=45&color=ffb347&vCenter=true&size=22" alt="Location" />
+  <img src="https://img.shields.io/badge/Страна / Country-Узбекистан / Uzbekistan-006747?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Город / City-Ташкент / Tashkent-blue?style=for-the-badge" />
 </p>
 
 ---
