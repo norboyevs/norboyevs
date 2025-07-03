@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Русский / Russian-Выcший%20/ Higher-blue?style=for-the-badge&logo=googletranslate" />
-  <img src="https://img.shields.io/badge/Узбекский / Uzbek-Hодной / Native-success?style=for-the-badge&logo=googletranslate" />
+  <img src="https://img.shields.io/badge/Узбекский / Uzbek-Родной / Native-success?style=for-the-badge&logo=googletranslate" />
   <img src="https://img.shields.io/badge/Английский / English-Свободное общение / Free Communication-yellow?style=for-the-badge&logo=googletranslate" />
 </p>
 
