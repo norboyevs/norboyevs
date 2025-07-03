@@ -11,6 +11,20 @@
 
 ---
 
+<h3 align="center">🌍 Я говорю на: , I speak: </h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Русский;+Английский+;+Узбекский&center=true&width=380&height=45&color=58a6ff&vCenter=true&size=22" alt="Languages I speak" />
+</p>
+
+<h3 align="center">📍 Местоположение: , Location:</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=+Я+живу+в+Узбекистане,+г.Ташкент&center=true&width=400&height=45&color=ffb347&vCenter=true&size=22" alt="Location" />
+</p>
+
+---
+
 ### 🧠 Сейчас изучаю:
 - JavaScript (основы и практика)
 - Python (логика, синтаксис)
