@@ -1,4 +1,4 @@
-<h1 align="center">✨ Привет, я Ibrokhim 👋</h1>
+<h1 align="center">✨ Привет, я Ibrohim 👋</h1>
 <h3 align="center">💻 Начинающий веб-разработчик | 🚀 Учу JavaScript и Python</h3>
 
 <p align="center">

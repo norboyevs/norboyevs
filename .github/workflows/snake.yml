@@ -2,25 +2,24 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout репозитория
         uses: actions/checkout@v3
 
-      - name: Generate the snake animation
+      - name: Генерация змейки
         uses: Platane/snk@v3
         with:
           github_user_name: norboyevs
           outputs: |
-          
             ./github-contribution-grid-snake.svg
 
-      - name: Push to GitHub
+      - name: Публикация SVG в ветку output
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
