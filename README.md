@@ -65,8 +65,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=norboyevs&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=norboyevs&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=norboyevs&layout=compact&theme=tokyonight" />
 </p>
 
