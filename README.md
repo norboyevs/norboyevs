@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5798f945-1ecb-4bfc-b051-4673b5b87fa3)<h1 align="center">✨ Привет, я Ibrohim 👋</h1>
+<h1 align="center">✨ Привет, я Ibrohim 👋</h1>
 <h3 align="center">💻 Начинающий веб-разработчик | 🚀 Учу JavaScript и Python</h3>
 
 <p align="center">
@@ -55,8 +55,8 @@
 
 <p align="center">
   <a href="https://github.com/norboyevs"><img src="https://img.shields.io/badge/Скоро-проекты-yellow?style=for-the-badge&logo=github" /></a>
-  <a href="https://github.com/norboyevs/First-Project"><img src="https://img.shields.io/badge/Проект_1-Готов-yellow?style=for-the-badge&logo=javascript"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Проект_2-В_разработке-inactive?style=for-the-badge&logo=javascript"/></a>
+  <a href="https://github.com/norboyevs/First-Project"><img src="https://img.shields.io/badge/Проект_1 / Project_1-Готов / Ready-yellow?style=for-the-badge&logo=javascript"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Проект_2 / Project_2-В_разработке / In_development-inactive?style=for-the-badge&logo=javascript"/></a>
 </p>
 
 ---
