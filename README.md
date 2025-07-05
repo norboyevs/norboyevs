@@ -2,7 +2,7 @@
 <h3 align="center">💻 Начинающий веб-разработчик | 🚀 Учу JavaScript и Python</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=🌱+Учу+JavaScript+и+Python;💻+Знаю+HTML+%26+CSS;🚀+Хочу+стать+Full-Stack+разработчиком!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=555&lines=🌱+Учу+JavaScript+и+Python;💻+Знаю+HTML+%26+CSS;🚀+Хочу+стать+Full-Stack+разработчиком!" alt="Typing SVG" />
 </p>
 
 ---
